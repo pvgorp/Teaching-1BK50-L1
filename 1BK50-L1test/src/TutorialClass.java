@@ -1,3 +1,7 @@
+/**
+ * @author pvgorp
+ *
+ */
 public class TutorialClass {
   /**
    * A non-static example method
