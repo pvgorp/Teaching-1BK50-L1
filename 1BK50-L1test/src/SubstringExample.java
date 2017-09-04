@@ -10,7 +10,7 @@ public class SubstringExample {
     String myString= "abc123";
     System.out.println("substring(0, 3) of "+myString + " is "+ myString.substring(0, 3));
     
-    // us of replace -- https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html
+    // use of replace -- https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html
     // download the JAR from https://commons.apache.org/proper/commons-lang/
     
     System.out.println("replacing abc by def in "+myString + " yields "+ StringUtils.replace(myString, "abc", "def"));
